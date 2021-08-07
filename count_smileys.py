@@ -19,6 +19,7 @@
 
 import re
 
+
 def count_smileys(arr):
     template = r'[:;][-~]?[)D]'
     count = 0
